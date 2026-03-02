@@ -1,6 +1,2 @@
 ## Hi there 👋
-
-<!--
-**darkfire099/darkfire099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-My name is Miguel Ramires 👍
+![](https://media1.tenor.com/m/1y8zDc-ll-EAAAAd/3d-saul-saul-goodman.gif)
